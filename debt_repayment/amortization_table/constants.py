@@ -1,0 +1,1 @@
+TABLES_PATH = "debt_repayment/files/tables/"
