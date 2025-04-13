@@ -1,0 +1,11 @@
+2025-04-12 16:01:48,344 - DEBUG - debt_repayment.tools.logger_utils - Logger 'debt_repayment.tools.logger_utils' initialized.
+2025-04-12 16:01:48,344 - INFO - debt_repayment.tools.logger_utils - Logger ready.
+2025-04-12 16:02:22,502 - DEBUG - debt_repayment.tools.logger_utils - Logger 'debt_repayment.tools.logger_utils' initialized.
+2025-04-12 16:02:22,503 - INFO - debt_repayment.tools.logger_utils - Logger ready.
+2025-04-12 16:02:58,805 - DEBUG - debt_repayment.tools.logger_utils - Logger 'debt_repayment.tools.logger_utils' initialized.
+2025-04-12 16:02:58,805 - INFO - debt_repayment.tools.logger_utils - Logger ready.
+2025-04-12 16:03:12,730 - INFO - debt_repayment.tools.logger_utils - Calculated loan details.
+2025-04-12 16:03:15,284 - INFO - debt_repayment.tools.logger_utils - Student Loan - Balance: 30000.0 - Interest rate: 4.3 - Duration: 120 - Monthly Payments: 308.03
+2025-04-12 16:03:15,342 - INFO - debt_repayment.tools.logger_utils - Amortization table generated.
+2025-04-13 00:05:46,009 - DEBUG - debt_repayment.tools.logger_utils - Logger 'debt_repayment.tools.logger_utils' initialized.
+2025-04-13 00:05:46,010 - INFO - debt_repayment.tools.logger_utils - Logger ready.
